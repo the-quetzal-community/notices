@@ -1,6 +1,6 @@
 # Notices
 
-    The Quetzal Community Trademark License™, Builda City™, Realm of Order™
+    The Quetzal Community™, Builda City™, Realm of Order™
     Copyright © 2024 Quentin Quaadgras quentinquaadgras.com (2024-02-25)
 
 These notices are available under https://the.quetzal.community/trademark-license
